@@ -1,0 +1,22 @@
+estados = ['Colima', 'Saltillo', 'Tlaxcala', 'Acapulco', 'Nayarit', 'Campeche', 
+ 'Sonora', 'Cancún', 'Durango', 'Tijuana', 'Veracruz', 'Yucatán', 'Guerrero', 
+ 'Nuevo León', 'Jalisco', 'Puebla', 'Tabasco', 'Toluca', 'Morelos', 'Tuxtla Gutiérrez',
+ 'Hidalgo', 'Baja California', 'Estado de México', 'Tepic', 'San Luis Potosí', 
+ 'Chihuahua', 'Mazatlán', 'Quintana Roo', 'Querétaro', 'Chiapas', 'Sinaloa', 
+ 'Ciudad de México', 'Coahuila', 'Guanajuato', 'Michoacán', 
+ 'Baja California Sur', 'Oaxaca', 'Baja California']
+
+
+F= [ 1, 13, 2584, 610, 233, 0, 21, 2, 144, 8, 4181, 377, 3, 34, 55, 89, 1, 5]
+
+
+capitales = ['#Ciudad Victo*ria', 'cuerna#vaca', 'Morelia!', 'xalapa', 'Tepic', 'hermos*illo',
+ 'toluca?', 'San? Luis Potosí', '*Mexicali', 'Villahermosa', 'Tuxtla Gutiérrez#',
+ 'Colima', 'la Paz#', 'Guadalajara', 'C*ampeche!', 'Durango', 'Zacatecas',
+ '!Chetumal', 'Ciudad# de México', 'chilpancingo*', 'Chihua#hua', '?Aguascalientes',
+ 'Oaxaca de Juárez*', '?Puebla', 'Quer?étaro', 'Mérida', 'guanajuato',
+ 'pachu*ca', '#Saltillo#', 'Culiacán!', 'Tlaxcala', 'monterrey']
+
+
+
+
