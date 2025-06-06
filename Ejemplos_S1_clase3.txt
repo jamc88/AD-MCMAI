@@ -19,4 +19,10 @@ capitales = ['#Ciudad Victo*ria', 'cuerna#vaca', 'Morelia!', 'xalapa', 'Tepic', 
 
 
 
-
+datos22 = {'Aguascalientes': 87, 'Baja California': 2681, 'Baja California Sur': 89,
+ 'Campeche': 110, 'Coahuila de Zaragoza': 169, 'Colima': 867, 'Chiapas': 499,
+ 'Chihuahua': 2016, 'CDMX': 742, 'Durango': 125, 'Guanajuato': 4256, 'Guerrero': 1378,
+ 'Hidalgo': 380, 'Jalisco': 1845, 'Mexico': 3226, 'Michoacan': 2292, 'Morelos': 1149,
+ 'Nayarit': 186, 'Nuevo Leon': 1391, 'Oaxaca': 740, 'Puebla': 1061, 'Queretaro': 187,
+ 'Quintana Roo': 635, 'San Luis Potosi': 751, 'Sinaloa': 558, 'Sonora': 1723, 'Tabasco': 334, 'Tamaulipas': 467,
+ 'Tlaxcala': 152, 'Veracruz': 641, 'Yucatan': 54, 'Zacatecas': 1432}
