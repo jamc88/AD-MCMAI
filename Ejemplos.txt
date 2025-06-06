@@ -26,3 +26,10 @@ datos22 = {'Aguascalientes': 87, 'Baja California': 2681, 'Baja California Sur':
  'Nayarit': 186, 'Nuevo Leon': 1391, 'Oaxaca': 740, 'Puebla': 1061, 'Queretaro': 187,
  'Quintana Roo': 635, 'San Luis Potosi': 751, 'Sinaloa': 558, 'Sonora': 1723, 'Tabasco': 334, 'Tamaulipas': 467,
  'Tlaxcala': 152, 'Veracruz': 641, 'Yucatan': 54, 'Zacatecas': 1432}
+
+
+
+abreviaturas = ['AGS', 'BC', 'BCS', 'CAMP', 'COAH', 'COL', 'CHIS', 'CHIH', 'CDMX',
+    'DGO', 'GTO', 'GRO', 'HGO', 'JAL', 'MEX', 'MICH', 'MOR', 'NAY', 'NL',
+    'OAX', 'PUE', 'QRO', 'Q ROO', 'SLP', 'SIN', 'SON', 'TAB', 'TAMPS',
+    'TLAX', 'VER', 'YUC', 'ZAC']
